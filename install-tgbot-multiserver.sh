@@ -19,7 +19,7 @@ WORKER_SVC="/etc/systemd/system/zivpn-api-worker.service"
 SERVERS_JSON="/etc/zivpn/servers.json"
 
 # ── URL Script ────────────────────────────────────────────────
-BOT_URL="https://raw.githubusercontent.com/chanelog/Socks/main/zivpn_bot_v2.py"
+BOT_URL="https://github.com/chanelog/Socks/raw/main/zivpn_bot_v2_fixed.py"
 WORKER_URL="https://raw.githubusercontent.com/chanelog/Socks/main/zivpn_api_worker.py"
 
 clear
